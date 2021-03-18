@@ -1,2 +1,2 @@
 # My_Site
-Practice css for building a personal website 
+Practice css by building a personal website 
